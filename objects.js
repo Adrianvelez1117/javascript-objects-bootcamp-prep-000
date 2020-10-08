@@ -1,4 +1,5 @@
-var playlist = {
-  'Marine Boudeau': 'Something'
-};
+var playlist =  { Marine Boudeau: "Something" };
+
+
+
 
