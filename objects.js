@@ -1,9 +1,11 @@
-  var playlist = new Object({michaelJackson: "triller"})
+  var playlist = new Object({michaelJackson: "triller"});
   
-  Function updatePlaylist(playlist,key,value) {
-    playlist[vicente] = sigoSiendo
+  Function updatePlaylist() {
+    playlist[vicente] = "sigoSiendo"
     return playlist
     }
+    
+    
     
   
   
