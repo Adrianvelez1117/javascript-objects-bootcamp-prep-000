@@ -1,6 +1,6 @@
-  var playlist = new Object({: ""});
+  var playlist = new Object({Slowdive: 'Alison'});
   
-  var updatePlaylist = new Object(playlist, {vicente: "sigoSiendo"});
+  var updatePlaylist = new Object(playlist, {});
   
   
   
