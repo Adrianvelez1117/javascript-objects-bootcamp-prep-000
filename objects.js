@@ -1,6 +1,6 @@
   var playlist = new Object({michaelJackson: "triller"});
   
-  Function updatePlaylist(object, key, value) {
+  Function updatePlaylist() {
     return Object.assign ({}, playlist, {[vicente]: sigoSiendo})
     }
     
